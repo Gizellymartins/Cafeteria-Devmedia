@@ -13,4 +13,4 @@ Utilização de propriedades CSS:
 -left;<br>
 Deixar o topo fixo na parte superior da página;
 Posicionar o link do rodapé de forma que ele fique "flutuando";
-Aplicar o efeito parallax nas imagens de fundo da página;
+Aplicar o efeito parallax nas imagens de fundo da página;<br>
