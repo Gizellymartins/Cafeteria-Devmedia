@@ -99,7 +99,7 @@ header {
 }
 
 .container-parallax2 {
-    background-image: url("/img/parallax-imagem2.jpg");
+    background-image: url("../img/parallax-imagem2.jpg");
     height: 50vh;
 }
 
@@ -121,14 +121,14 @@ header {
 }
 
 .container-parallax3 {
-    background-image: url("/img/parallax-imagem3.jpg");
+    background-image: url("../img/parallax-imagem3.jpg");
     height: 50vh;
 }
 
 /* Contatos */
 
 .container-parallax4 {
-    background-image: url("/img/parallax-imagem4.png");
+    background-image: url("../img/parallax-imagem4.png");
     height: 100vh;
 }
 
@@ -167,7 +167,7 @@ header {
 /* Horários */
 
 .container-parallax5 {
-    background-image: url("/img/cafeteria.jpg");
+    background-image: url("../img/cafeteria.jpg");
     height: 100vh;
 }
 
@@ -248,7 +248,7 @@ header {
     position: absolute;
     right: 50px;
     bottom: 80px;
-    background-image: url("/img/seta-para-cima.png");
+    background-image: url("../img/seta-para-cima.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
